@@ -5,7 +5,7 @@ VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "App.Web.Mvc", "App.Web.Mvc\App.Web.Mvc.csproj", "{1E864959-5797-44FE-A954-ACF6D233851A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcEticaret", "MvcEticaret\MvcEticaret.csproj", "{3C215841-63CB-4A6A-9089-5A1FB40C0D63}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MvcEticaret", "MvcEticaret\MvcEticaret.csproj", "{3C215841-63CB-4A6A-9089-5A1FB40C0D63}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

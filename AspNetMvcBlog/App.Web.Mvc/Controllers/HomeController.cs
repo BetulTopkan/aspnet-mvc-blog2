@@ -1,6 +1,7 @@
 ﻿using App.Web.Mvc.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+
 namespace App.Web.Mvc.Controllers
 {
     public class HomeController : Controller
@@ -17,7 +18,17 @@ namespace App.Web.Mvc.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+		public IActionResult About()
+		{
+			return View();
+		}
+
+		public IActionResult Contact()
+		{
+			return View();
+		}
+
+		public IActionResult Privacy()
         {
             return View();
         }
